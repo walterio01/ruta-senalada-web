@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@astrojs/preact": "^5.1.4",
-    "@astrojs/vercel": "^10.0.8",
+    "@astrojs/vercel": "^11.0.9",
     "@bryanguffey/astro-standard-site": "^1.0.3",
     "astro": "6.4.2",
     "drizzle-orm": "^0.45.2",
