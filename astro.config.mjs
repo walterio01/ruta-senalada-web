@@ -26,7 +26,6 @@ export default defineConfig({
       enabled: true
     }
   }),
-  # site: 'https://whiskey.fm',
-  integrations: [starpod(starpodConfig, { database: true })],
-  }
+  site: 'https://ruta-senalada-web.vercel.app',
+  integrations: [starpod(starpodConfig, { database: true })]
 });
