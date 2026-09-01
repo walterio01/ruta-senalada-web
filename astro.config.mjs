@@ -6,7 +6,7 @@ import starpodConfig from './starpod.config';
 
 // https://astro.build/config
 export default defineConfig({
-  output: 'static',
+  output: 'server',
   adapter: vercel({
     imageService: true,
     imagesConfig: {
